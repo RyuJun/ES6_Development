@@ -1,6 +1,6 @@
 # webpack과 babel을 이용한 ES6 개발환경 설치
 
-- webpack : client-side ㅗㅁ듈 빌더이자 모듈 로더
+- webpack : client-side 모듈 빌더이자 모듈 로더
 - npm : 패키지 매니저
 - babel : ES6를 ES5로 변환시켜주는 트랜스파일러
 
